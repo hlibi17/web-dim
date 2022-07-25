@@ -45,6 +45,7 @@ b {
 
 
 ul.nav {
+    position: sticky;
     top: 0;
     list-style: none;
     padding: 0;
