@@ -176,7 +176,7 @@ footer {
 }
 
 .contact-icon {
-    width: 50px;
+    width: 100px;
     margin: 2em;
 }
 
@@ -248,6 +248,7 @@ footer {
     .contact-icon {
         display: inline-block;
         vertical-align: middle;
+        width: 100px;
     }
     .contact-info > div {
         display: block;
